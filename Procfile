@@ -1,1 +1,1 @@
-worker node 3amera7bk.js
+worker node 3amerYa8lbe.js
