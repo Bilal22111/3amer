@@ -1,1 +1,1 @@
-worker node اسم ملف البوت.js
+worker node 3amera7bk.js
